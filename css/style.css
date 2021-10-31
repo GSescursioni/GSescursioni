@@ -55,20 +55,22 @@ p {
   font-size: 1.5em;
 }
 
-@media only screen and (max-width : 992px) {
-  .parallax-container .section {
-    position: absolute;
-    top: 40%;
-  }
-  #index-banner .section {
-    top: 10%;
-  }
+
+
+.immagine1{
+  margin-left: 10%;
 }
 
-@media only screen and (max-width : 600px) {
-  #index-banner .section {
-    top: 0;
- }
+.immagine2{
+  margin-left: 6%;
+  
+}
+
+
+
+
+
+
 
 nav .nav-wrapper {
     padding: 0 10px;
@@ -98,7 +100,7 @@ nav .nav-wrapper {
 .section-registrazione {
    width: 100%;
    height:100%;
-} 
+}
 
 
 

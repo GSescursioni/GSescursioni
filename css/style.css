@@ -84,7 +84,8 @@ nav .nav-wrapper {
 
 .immagine1{
    display:inline-block;
-   margin-left: 50%
+   margin-left: 50%;
+   margin-right:60%;
    width: 100%;
 }
 

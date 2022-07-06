@@ -82,12 +82,11 @@ nav .nav-wrapper {
 }
 
 
-.immagine1{
-   display:inline-block;
-   width: 100%;
-   height:100%;
-   
-
+.img-centrata {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f9a825;
 }
 
 .section-registrazione {
